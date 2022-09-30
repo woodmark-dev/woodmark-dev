@@ -10,6 +10,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=woodmark-dev)](https://git.io/streak-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **woodmark-dev/woodmark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
