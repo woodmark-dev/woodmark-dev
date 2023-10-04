@@ -14,7 +14,7 @@
 </div>  
   
 
-### <div align="center">Dedicated Frontend Web Developer with 1 year of practical experience in HTML, CSS, Javascript/ES6/ES2017, Tailwind, React, Redux, and Git.</div>  
+### <div align="center">Dedicated Frontend Web Developer with 1 year of practical experience in HTML, CSS, Javascript/ES6/ES2017, Tailwind, React, Redux, node, and Git.</div>  
   
 
 <br/>  
